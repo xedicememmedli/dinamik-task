@@ -1,0 +1,31 @@
+C:\Users\PC\source\repos\front to back code\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PC\source\repos\front to back code\bin\Debug\net8.0\appsettings.json
+C:\Users\PC\source\repos\front to back code\bin\Debug\net8.0\front to back code.staticwebassets.runtime.json
+C:\Users\PC\source\repos\front to back code\bin\Debug\net8.0\front to back code.staticwebassets.endpoints.json
+C:\Users\PC\source\repos\front to back code\bin\Debug\net8.0\front to back code.exe
+C:\Users\PC\source\repos\front to back code\bin\Debug\net8.0\front to back code.deps.json
+C:\Users\PC\source\repos\front to back code\bin\Debug\net8.0\front to back code.runtimeconfig.json
+C:\Users\PC\source\repos\front to back code\bin\Debug\net8.0\front to back code.dll
+C:\Users\PC\source\repos\front to back code\bin\Debug\net8.0\front to back code.pdb
+C:\Users\PC\source\repos\front to back code\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\PC\source\repos\front to back code\obj\Debug\net8.0\front to back code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\front to back code\obj\Debug\net8.0\front to back code.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\front to back code\obj\Debug\net8.0\front to back code.AssemblyInfo.cs
+C:\Users\PC\source\repos\front to back code\obj\Debug\net8.0\front to back code.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\front to back code\obj\Debug\net8.0\front to back code.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\source\repos\front to back code\obj\Debug\net8.0\front to back code.RazorAssemblyInfo.cache
+C:\Users\PC\source\repos\front to back code\obj\Debug\net8.0\front to back code.RazorAssemblyInfo.cs
+C:\Users\PC\source\repos\front to back code\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\PC\source\repos\front to back code\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\PC\source\repos\front to back code\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\PC\source\repos\front to back code\obj\Debug\net8.0\scopedcss\bundle\front to back code.styles.css
+C:\Users\PC\source\repos\front to back code\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PC\source\repos\front to back code\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\PC\source\repos\front to back code\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PC\source\repos\front to back code\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\PC\source\repos\front to back code\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\PC\source\repos\front to back code\obj\Debug\net8.0\front to back code.dll
+C:\Users\PC\source\repos\front to back code\obj\Debug\net8.0\refint\front to back code.dll
+C:\Users\PC\source\repos\front to back code\obj\Debug\net8.0\front to back code.pdb
+C:\Users\PC\source\repos\front to back code\obj\Debug\net8.0\front to back code.genruntimeconfig.cache
+C:\Users\PC\source\repos\front to back code\obj\Debug\net8.0\ref\front to back code.dll
